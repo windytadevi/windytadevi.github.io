@@ -1,0 +1,197 @@
+﻿Diagnose log at 2026-08-07T05:43:02Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\ASUS
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=LAPTOP-QHMN81UD
+GIT_TRACE2_PARENT_SID=212462d1-ce5a-4537-9b58-1067e98d75d5
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\ASUS\OneDrive
+SESSIONNAME=Console
+LANG=en_US.UTF-8
+TMP=C:\Users\ASUS\AppData\Local\Temp
+PROCESSOR_REVISION=5000
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-QHMN81UD
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+USERNAME=ASUS
+GIT_ASKPASS=c:\Users\ASUS\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass.sh
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\ASUS\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\ASUS\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+COLORTERM=truecolor
+windir=C:\WINDOWS
+JAVA_HOME=C:\Program Files\Apache NetBeans\jdk
+USERDOMAIN=LAPTOP-QHMN81UD
+EFC_18888_2283032206=1
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\ASUS\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\xampp\php;C:\composer;C:\Program Files\Apache NetBeans\jdk\bin;C:\Program Files\Git\cmd;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ASUS\AppData\Roaming\Composer\vendor\bin
+TERM_PROGRAM=vscode
+PROCESSOR_LEVEL=25
+NUMBER_OF_PROCESSORS=16
+TMPDIR=C:\Users\ASUS\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+APPDATA=C:\Users\ASUS\AppData\Roaming
+TERM_PROGRAM_VERSION=1.125.1
+EFC_18888_3789132940=1
+ProgramFiles(x86)=C:\Program Files (x86)
+PUBLIC=C:\Users\Public
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-47cc172d5c-sock
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_INJECTION=1
+VSCODE_NONCE=2a089c41-5d27-473a-8c7b-1b9bf90903e6
+EFC_18888_4126798990=1
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\ASUS\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass-main.js
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+ProgramFiles=C:\Program Files (x86)
+VSCODE_GIT_ASKPASS_NODE=C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\Code.exe
+EFC_18888_1262719628=1
+SystemRoot=C:\WINDOWS
+INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+HOME=C:\Users\ASUS
+VSCODE_STABLE=1
+CommonProgramW6432=C:\Program Files\Common Files
+LOGONSERVER=\\LAPTOP-QHMN81UD
+USERPROFILE=C:\Users\ASUS
+EFC_18888_1592913036=1
+PROCESSOR_ARCHITEW6432=AMD64
+HOMEDRIVE=C:
+VSCODE_A11Y_MODE=0
+PSModulePath=C:\Users\ASUS\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_9952_AGJAUPUEIXEDTSXP
+MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+PT8HOME=C:\Program Files\Cisco Packet Tracer 8.2.2
+EFC_18888_2775293581=1
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\ASUS\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\ASUS\AppData\Local\Temp\5e7441439ad7438527b84333'... OK
+Reading from temporary file 'C:\Users\ASUS\AppData\Local\Temp\5e7441439ad7438527b84333'... OK
+Deleting temporary file 'C:\Users\ASUS\AppData\Local\Temp\5e7441439ad7438527b84333'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\ASUS
+UserDataDirectoryPath: C:\Users\ASUS\.gcm
+GetCurrentDirectory(): D:\Semester Antara\SP SMT 4\PORTOFOLIO\iPortfolio\iPortfolio
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:52116/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.52.0.windows.1'
+Locating current repository...Git repository at 'D:/Semester Antara/SP SMT 4/PORTOFOLIO/iPortfolio/iPortfolio/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/ASUS/.gitconfig	user.name=Windyta Devi
+file:C:/Users/ASUS/.gitconfig	user.email=windytadevi@gmail.com
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/windytadevi/windytadevi.github.io.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\ASUS\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\ASUS\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
